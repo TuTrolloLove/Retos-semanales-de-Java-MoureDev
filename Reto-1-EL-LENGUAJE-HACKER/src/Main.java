@@ -63,7 +63,6 @@ public class Main {
                 leetText += String.valueOf(c).toLowerCase();
 
             }
-
         }
         return leetText;
     }
