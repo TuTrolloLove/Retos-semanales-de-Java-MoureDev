@@ -62,7 +62,7 @@ public class Main {
                 for(int j = 0; j< randomNumber; j++){
                     // Generar números (num aleatorio entre 0 y 9)
                     Random rand = new Random();
-                    passwordGenerated.add((char) rand.nextInt(10));
+                    passwordGenerated.add(Character.forDigit(rand.nextInt(10), 10)  );
                 }
                 charactersLeft -= randomNumber;
             }
