@@ -20,5 +20,9 @@ Retos para practicar la lógica de programación. El autor de los retos es Moure
 - **RETO 14: OCTAL Y HEXADECIMAL**
 - **RETO 15: AUREBESH**
 
-### Último reto realizado: AUREBESH
-Se irá actualizando conforme haga más retos.
+## Último reto realizado ✨
+**AUREBESH**
+
+## Próximamente ⌛
+- **RETO 16: LA ESCALERA**
+- **RETO 17: GIT Y GITHUB**
