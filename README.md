@@ -22,7 +22,3 @@ Retos para practicar la lógica de programación. El autor de los retos es Moure
 
 ## Último reto realizado ✨
 **AUREBESH**
-
-## Próximamente ⌛
-- **RETO 16: LA ESCALERA**
-- **RETO 17: GIT Y GITHUB**
